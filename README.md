@@ -1,9 +1,9 @@
 <div align="center">
 <a href="https://misskey-hub.net">
-	<img src="./assets/title_float_cherrypick.svg" alt="CherryPickのロゴ" width="400"/>
+	<img src="./assets/title_float_cherrypick.svg" alt="Xisskeyのロゴ" width="400"/>
 </a>
 
-**🌎**[CherryPick](https://misskey-hub.net/)**は、永遠に無料のオープンソースで分散型のソーシャルメディアプラットフォームです！ 🚀**
+**🌎**[Xisskey](https://misskey-hub.net/)**は、永遠に無料のオープンソースで分散型のソーシャルメディアプラットフォームです！ 🚀**
 
 ---
 
@@ -35,13 +35,13 @@
 
 ## ✨ 特徴
 - **ActivityPubサポート**\
-CherryPickに参加していなくても大丈夫！ CherryPickインスタンス同士だけでなく、MastodonやMisskey、Pixelfedなど他のネットワークの人々とも友達になることができます！
+Xisskey(Re＋)に参加していなくても大丈夫！ Xisskey(Re＋)インスタンス同士だけでなく、MastodonやMisskey、Pixelfedなど他のネットワークの人々とも友達になることができます！
 - **リアクション**\
 どんな投稿にも絵文字のリアクションを追加できます！もはや「いいね」ボタンに縛られることなく、ボタンをタップするだけで自分の気持ちをみんなに示せます。
 - **ドライブ**\
-CherryPickに組み込まれたドライブで、ソーシャルメディア内にクラウドストレージが利用できます。ファイルをアップロードしたり、フォルダを作成したり、自分が投稿したメディアを見つけることができます！
+Xisskey(Re＋)に組み込まれたドライブで、ソーシャルメディア内にクラウドストレージが利用できます。ファイルをアップロードしたり、フォルダを作成したり、自分が投稿したメディアを見つけることができます！
 - **豊富なWeb UI**\
-CherryPickには豊かで使いやすいWeb UIがあります！レイアウトの変更やウィジェットの追加からカスタムテーマの作成まで、高度にカスタマイズできます。さらに、AiScriptという独自のプログラミング言語を使ってプラグインを作成できます。
+Xisskey(Re＋)には豊かで使いやすいWeb UIがあります！レイアウトの変更やウィジェットの追加からカスタムテーマの作成まで、高度にカスタマイズできます。さらに、AiScriptという独自のプログラミング言語を使ってプラグインを作成できます。
 - その他にもたくさんの機能があります...
 
 </div>
@@ -50,15 +50,15 @@ CherryPickには豊かで使いやすいWeb UIがあります！レイアウト�
 
 ## ドキュメント
 
-CherryPickのドキュメントは[Misskey Hub](https://misskey-hub.net/)で見つけることができます。上記のリンクやグラフィックも特定の部分へリンクしています。
+Xisskey(Re＋)のドキュメントは[Misskey Hub](https://misskey-hub.net/)で見つけることができます。上記のリンクやグラフィックも特定の部分へリンクしています。
 
-## スポンサー
+## スポンサー(Misskey)
 
 <div align="center">
 	<a class="rss3" title="RSS3" href="https://rss3.io/" target="_blank"><img src="https://rss3.mypinata.cloud/ipfs/QmUG6H3Z7D5P511shn7sB4CPmpjH5uZWu4m5mWX7U3Gqbu" alt="RSS3" height="60"></a>
 </div>
 
-## 謝辞
+## 謝辞(Misskey)
 
 <a href="https://www.chromatic.com/"><img src="https://user-images.githubusercontent.com/321738/84662277-e3db4f80-af1b-11ea-88f5-91d67a5e59f6.png" height="30" alt="Chromatic" /></a>
 
@@ -70,7 +70,7 @@ CherryPickのドキュメントは[Misskey Hub](https://misskey-hub.net/)で見�
 
 <a href="https://crowdin.com/"><img src="https://user-images.githubusercontent.com/20679825/230709597-1299a011-171a-4294-a91e-355a9b37c672.svg" height="30" alt="Crowdin" /></a>
 
-多言語にCherryPickを翻訳するのに役立つローカリゼーションプラットフォームを提供してくれる[Crowdin](https://crowdin.com/)に感謝します。
+多言語にXisskey(Re＋)を翻訳するのに役立つローカリゼーションプラットフォームを提供してくれる[Crowdin](https://crowdin.com/)に感謝します。
 
 <a href="https://hub.docker.com/"><img src="https://user-images.githubusercontent.com/20679825/230148221-f8e73a32-a49b-47c3-9029-9a15c3824f92.png" height="30" alt="Docker" /></a>
 
