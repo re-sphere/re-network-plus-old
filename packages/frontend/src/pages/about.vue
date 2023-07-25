@@ -20,7 +20,7 @@
 			<FormSection>
 				<div class="_gaps_m">
 					<MkKeyValue :copy="version">
-						<template #key>CherryPick</template>
+						<template #key>Xisskey(Re:Network＋)</template>
 						<template #value>{{ version }}</template>
 					</MkKeyValue>
 					<div v-html="i18n.t('poweredByMisskeyDescription', { name: instance.name ?? host })">
