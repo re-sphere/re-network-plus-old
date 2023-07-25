@@ -1,10 +1,10 @@
 {
-	"name": "cherrypick",
-	"version": "13.14.0-beta.7-cp-4.2.0-beta.1",
-	"codename": "nasubi",
+	"name": "re-network-plus",
+	"version": "0.1 Beta 1",
+	"codename": "X",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/kokonect-link/cherrypick.git"
+		"url": "https://github.com/re-sphere/re-network-plus.git"
 	},
 	"packageManager": "pnpm@8.6.0",
 	"workspaces": [
