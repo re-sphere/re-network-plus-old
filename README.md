@@ -3,7 +3,7 @@
 	<img src="./assets/title_float_cherrypick.svg" alt="CherryPickのロゴ" width="400"/>
 </a>
 
-**🌎 **[CherryPick](https://misskey-hub.net/)**は、永遠に無料のオープンソースで分散型のソーシャルメディアプラットフォームです！ 🚀**
+**🌎**[CherryPick](https://misskey-hub.net/)**は、永遠に無料のオープンソースで分散型のソーシャルメディアプラットフォームです！ 🚀**
 
 ---
 
