@@ -25,7 +25,7 @@
 				<FormSection v-if="isKokonect">
 					<template #label>_KOKONECT_</template>
 					<div class="_formLinks">
-						<FormLink to="https://status.kokonect.link" external>
+						<FormLink to="https://status.resphere.net" external>
 							<template #icon><i class="ti ti-activity"></i></template>
 							{{ i18n.ts._aboutMisskey._kokonect.serverStatus }}
 							<template #suffix>Server Status</template>
@@ -35,7 +35,7 @@
 				<FormSection>
 					<template #label>CherryPick</template>
 					<div class="_formLinks">
-						<FormLink to="https://github.com/kokonect-link/cherrypick" external>
+						<FormLink to="https://github.com/re-sphere/re-network-plus" external>
 							<template #icon><i class="ti ti-code"></i></template>
 							{{ i18n.ts._aboutMisskey.source }}
 							<template #suffix>GitHub</template>
@@ -145,6 +145,14 @@
 							<span :class="$style.contributorUsername">@noridev
 								<span :class="$style.contributorClient">
 									<span :class="$style.cherry">Cherry</span><span :class="$style.pick">Pick</span>
+								</span>
+							</span>
+						</a>
+						<a href="https://github.com/alice-coders" target="_blank" :class="$style.contributor">
+							<img src="https://avatars.githubusercontent.com/u/136943652?s=400&u=6519705f73607a0a88513c42777e2cfad7342bcd&v=4" :class="$style.contributorAvatar">
+							<span :class="$style.contributorUsername">@noridev
+								<span :class="$style.contributorClient">
+									<span :class="$style.cherry">Re:Network</span><span :class="$style.pick">Plus</span>
 								</span>
 							</span>
 						</a>
