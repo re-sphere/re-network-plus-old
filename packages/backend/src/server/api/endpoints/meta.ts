@@ -60,12 +60,12 @@ export const meta = {
 			repositoryUrl: {
 				type: 'string',
 				optional: false, nullable: false,
-				default: 'https://github.com/kokonect-link/cherrypick',
+				default: 'https://github.com/re-sphere/re-network-plus/',
 			},
 			feedbackUrl: {
 				type: 'string',
 				optional: false, nullable: false,
-				default: 'https://github.com/kokonect-link/cherrypick/issues/new',
+				default: 'https://github.com/re-sphere/re-network-plus/issues/new/',
 			},
 			defaultDarkTheme: {
 				type: 'string',

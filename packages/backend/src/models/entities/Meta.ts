@@ -337,14 +337,14 @@ export class Meta {
 
 	@Column('varchar', {
 		length: 1024,
-		default: 'https://github.com/kokonect-link/cherrypick',
+		default: 'https://github.com/re-sphere/re-network-plus/',
 		nullable: false,
 	})
 	public repositoryUrl: string;
 
 	@Column('varchar', {
 		length: 1024,
-		default: 'https://github.com/kokonect-link/cherrypick/issues/new',
+		default: 'https://github.com/re-sphere/re-network-plus/issues/new/',
 		nullable: true,
 	})
 	public feedbackUrl: string | null;
