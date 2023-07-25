@@ -1,0 +1,17 @@
+[Unit]
+Description=Re:Network Plus daemon
+
+[Service]
+Type=simple
+User=renet
+ExecStart=/usr/bin/npm start
+WorkingDirectory=/home/renet/re-network-plus
+Environment="NODE_ENV=production"
+TimeoutSec=60
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=misskey
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
