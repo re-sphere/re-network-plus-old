@@ -1,0 +1,25 @@
+{
+	id: '7540fce3-218f-4e1b-8182-b9481d977078',
+	base: 'light',
+	name: 'CherryPick Light',
+	author: 'noridev',
+	desc: 'CherryPick default light theme',
+
+	props: {
+		accent: '#6ba5e3',
+		bg: 'rgb(238, 241, 252)',
+		fg: '#577096',
+		fgOnWhite: '@accent',
+		divider: 'rgb(223, 223, 223)',
+		panel: 'rgb(246, 249, 255)',
+		acrylicPanel: ':alpha<0.5<@panel',
+		header: '@bg',
+		navBg: '#eff4ff',
+		navHoverFg: '@pick',
+		renote: '@accent',
+		buttonGradateA: '@cherry',
+		buttonGradateB: '@pick',
+		badge: '#ffa9c3',
+		messageBg: '#dedede',
+	},
+}
